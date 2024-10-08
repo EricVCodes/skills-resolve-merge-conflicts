@@ -1,3 +1,2 @@
-# References
+intentional errors
 
-* octocat 1 😈
